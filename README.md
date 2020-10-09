@@ -5,12 +5,12 @@
     * Compiling Java and Scala on the Command-Line
     * Scala as a Script!
     * Using REPL
-    * Types and Type Inference - var in Java and Scala
+    * Types and Type Inference in Java and Scala
     * var Vs val
     * Optional semicolons
     * Statement Vs Expression (Mutation Vs Immutability)
         * if-else in Java and Scala
-        * for-loop in Java and for-block in Scala
+        * for-loop in Java and for-block, for-yield in Scala
     * Strings in Scala
         * Multi-line
         * Interpolation

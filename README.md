@@ -1,6 +1,6 @@
-#Introduction to Scala
+# Introduction to Scala
 
-##Comparing Java & Scala
+## Comparing Java & Scala
 * **Control and Type Constructs**
     * Compiling Java and Scala on the Command-Line
     * Scala as a Script!
@@ -17,7 +17,7 @@
     * Tuples and Multiple Assignments in Scala
 * **Object-Oriented Constructs**
 
-##Introduction to Functional Programming
+## Introduction to Functional Programming
 * Contrasting Programming Paradigms
 * Functions, Functions and Functions....
 * Higher-Order Functions

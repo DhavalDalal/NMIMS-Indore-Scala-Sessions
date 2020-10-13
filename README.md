@@ -6,11 +6,11 @@
     * Scala as a Script!
     * Using REPL
     * Types and Type Inference in Java and Scala
-    * var Vs val
+    * ```var``` Vs ```val```
     * Optional semicolons
     * Statement Vs Expression (Mutation Vs Immutability)
-        * if-else in Java and Scala
-        * for-loop in Java and for-block, for-yield in Scala
+        * ```if-else``` in Java and Scala
+        * ```for```-loop in Java and ```for```-block, ```for-yield``` in Scala
     * Strings in Scala
         * Multi-line
         * Interpolation

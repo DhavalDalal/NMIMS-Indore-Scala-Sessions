@@ -15,7 +15,21 @@
         * Multi-line
         * Interpolation
     * Tuples and Multiple Assignments in Scala
+    * Equality
+        * `==` Vs `equals` in Java
+            * `==` primitives: value-based comparison
+            * `==` objects: identity-based comparison
+            * `equals`: value-based comparison for objects
+        * `==` Vs `eq` in Scala
+            * `==` for value-based comparison across all types (primitives/objects)
+            * `eq` for identity-based comparison
+
 * **Object-Oriented Constructs**
+    * class, method, object and function
+        * class, method (Name Example)
+            * Subsumed getters and setters
+            * optional .
+            * Classes and methods are public by default 
 
 ## Introduction to Functional Programming
 * Contrasting Programming Paradigms

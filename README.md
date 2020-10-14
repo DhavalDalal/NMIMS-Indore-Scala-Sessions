@@ -30,6 +30,7 @@
             * Subsumed getters and setters
             * optional .
             * Classes and methods are public by default 
+    * function 
 
 ## Introduction to Functional Programming
 * Contrasting Programming Paradigms

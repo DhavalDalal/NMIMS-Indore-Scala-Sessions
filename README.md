@@ -25,14 +25,14 @@
             * `eq` for identity-based comparison
 
 * **Object-Oriented Constructs**
-    * class, method, object and function
+    * class, method, function and object
         * class, method (Name Example)
             * Subsumed getters and setters
             * optional .
             * Classes and methods are public by default 
     * function 
-
-## Introduction to Functional Programming
-* Contrasting Programming Paradigms
-* Functions, Functions and Functions....
-* Higher-Order Functions
+        * Optional return
+        * Default parameters
+        * Named parameters
+        * Implicit parameters
+  * object - (StringUtils Example)
